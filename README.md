@@ -1,14 +1,28 @@
+### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chaithyagr)
-<p>
-  <i></i>
+<!--
+**zaccharieramzi/zaccharieramzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <p>
-    <a href="https://twitter.com/chaithyaG" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/chaithya-gr-b08aab44/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:chaithyagr@gmail.com" alt="Contact me">
-<img src="https://raw.githubusercontent.com/chaithyagr/chaithyagr/master/src/images/mail-send-line.svg"></a>
-    <a href="https://chaithyagr.github.io" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-  
-</p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+I am Chaithya G R, a Doctral student working with Philippe CIUCIU at Neurospin, CEA Paris-Saclay.
+I work with Inria in the [MIND team](https://team.inria.fr/mind/) and Neurospin in the [METRIC team](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/unirs/METRIC.aspx)
+
+The topic of my PhD is deep learning for joint optimizing k-space sampling trajectory and MRI reconstruction, particularly non-Cartesian MRI. This made me interested in all things connected to:
+- convex non-smooth optimization
+- MRI and healthcare, particularly trajectory design, sequence development and reconstructions
+- deep learning
+
+I like to write TensorFlow, PyTorch codes not only to write neural networks but also to build other related functionalities.
+I particularly love to build onto algorithms to drastically speed up computations through GPU implementations or parallel computations, algorithmic development etc.
+Open source is definitely my motto.
